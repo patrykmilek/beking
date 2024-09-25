@@ -15,13 +15,13 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
 - **Zakończenie Gry**: Jeśli stracisz wszystkie zdrowie lub złoto, twoja przygoda się zakończy.
 
 ## 🚀 Jak Grać
+
 1. **Sklonuj repozytorium**:
    git clone https://github.com/twoj-uzytkownik/nazwa-projektu.git
    cd nazwa-projektu
 2. **Uruchom Grę**:
 
-bash
-Skopiuj kod
+Skopiuj kod:
 python game.py
 
 3. **Opcje w Grze:**
