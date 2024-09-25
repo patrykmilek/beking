@@ -38,6 +38,7 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
  
 ## 💡 Mechanika
 Zdrowie: Rozpoczynasz z 100 punktami zdrowia. Walki z przeciwnikami zmniejszają zdrowie, a odpoczynek lub specjalne wydarzenia mogą je przywrócić.
+
 Złoto: Złoto to główny zasób w grze. Możesz je zdobywać przez znalezienie skarbów lub napotkanie wędrowców, ale też możesz je tracić w wyniku nieudanych akcji.
 
 ## 🏆 Zakończenie Gry
