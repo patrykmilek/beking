@@ -23,16 +23,15 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
 
 Skopiuj kod:
 python game.py
-
 3. **Opcje w Grze:**
 
- 1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
+- 1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
  
- 2: Odpocznij i odzyskaj zdrowie, kosztem 100 złota.
+- 2: Odpocznij i odzyskaj zdrowie, kosztem 100 złota.
  
- 3: Sprawdź aktualny status swojej postaci (zdrowie, złoto, status).
+- 3: Sprawdź aktualny status swojej postaci (zdrowie, złoto, status).
  
- 4: Zakończ grę.
+- 4: Zakończ grę.
  
 ## 💡 Mechanika
 Zdrowie: Rozpoczynasz z 100 punktami zdrowia. Walki z przeciwnikami zmniejszają zdrowie, a odpoczynek lub specjalne wydarzenia mogą je przywrócić.
