@@ -17,7 +17,6 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
 ## 🚀 Jak Grać
 
 1. **Sklonuj repozytorium**:
-   ```bash
    git clone https://github.com/twoj-uzytkownik/nazwa-projektu.git
    cd nazwa-projektu
 
