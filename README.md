@@ -23,8 +23,8 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
 
 2. **Uruchom Grę**:
 
-Skopiuj kod:
-python game.py
+   Skopiuj kod:
+   python game.py
 
 3. **Opcje w Grze:**
 
