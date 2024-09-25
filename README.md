@@ -27,8 +27,11 @@ python game.py
 3. **Opcje w Grze:**
 
  1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
+ 
  2: Odpocznij i odzyskaj zdrowie, kosztem 100 złota.
+ 
  3: Sprawdź aktualny status swojej postaci (zdrowie, złoto, status).
+ 
  4: Zakończ grę.
  
 ## 💡 Mechanika
