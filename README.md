@@ -20,22 +20,26 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
    ```bash
    git clone https://github.com/twoj-uzytkownik/nazwa-projektu.git
    cd nazwa-projektu
-Uruchom Grę:
+
+2. **Uruchom Grę**:
 
 bash
 Skopiuj kod
 python game.py
-Opcje w Grze:
 
-1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
-2: Odpocznij i odzyskaj zdrowie, kosztem 100 złota.
-3: Sprawdź aktualny status swojej postaci (zdrowie, złoto, status).
-4: Zakończ grę.
-💡 Mechanika
+3. **Opcje w Grze:**
+
+ 1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
+ 2: Odpocznij i odzyskaj zdrowie, kosztem 100 złota.
+ 3: Sprawdź aktualny status swojej postaci (zdrowie, złoto, status).
+ 4: Zakończ grę.
+ 
+## 💡 Mechanika
 Zdrowie: Rozpoczynasz z 100 punktami zdrowia. Walki z przeciwnikami zmniejszają zdrowie, a odpoczynek lub specjalne wydarzenia mogą je przywrócić.
 Złoto: Złoto to główny zasób w grze. Możesz je zdobywać przez znalezienie skarbów lub napotkanie wędrowców, ale też możesz je tracić w wyniku nieudanych akcji.
-🏆 Zakończenie Gry
+
+## 🏆 Zakończenie Gry
 Gdy zdobędziesz 1000 złota, zostajesz Królem, a gra się kończy. Postaraj się ukończyć grę w jak najmniejszej liczbie ruchów!
 
-📜 Licencja
+## 📜 Licencja
 Ten projekt jest udostępniony na licencji MIT.
