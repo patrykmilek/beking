@@ -17,12 +17,15 @@ Twoim zadaniem jest zdobycie **1000 złota** i osiągnięcie tytułu Króla, wyk
 ## 🚀 Jak Grać
 
 1. **Sklonuj repozytorium**:
+
    git clone https://github.com/twoj-uzytkownik/nazwa-projektu.git
    cd nazwa-projektu
+
 2. **Uruchom Grę**:
 
 Skopiuj kod:
 python game.py
+
 3. **Opcje w Grze:**
 
 - 1: Przeszukaj obszar, by spotkać przeciwników, znaleźć skarby lub napotkać losowe wydarzenia.
